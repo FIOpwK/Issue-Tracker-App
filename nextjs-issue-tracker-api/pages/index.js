@@ -10,7 +10,7 @@ const Home = () => (
 
     <main>
       <h1 className={styles.title}>
-        Welcome to <a href="https://issue-tracker-app-fiopwk.vercel.app/">Next.js!</a>
+        Welcome to <a href="https://issue-tracker-app-fiopwk.vercel.app/">nextjs-issue-tracker-api!</a>
       </h1>
 
       <p className={styles.description}>
